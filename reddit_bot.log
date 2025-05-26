@@ -1,0 +1,270 @@
+2025-05-22 00:46:16,060 - INFO - Starting Reddit AI bot for Hand Cricket Showdown promotion...
+2025-05-22 00:46:16,571 - INFO - HTTP Request: GET https://www.google.com "HTTP/1.1 200 OK"
+2025-05-22 00:46:16,583 - INFO - Internet connection is working
+2025-05-22 00:46:19,020 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-22 00:46:19,028 - INFO - Ollama is running. Available models: ['deepseek-r1:1.5b']
+2025-05-22 00:46:21,745 - ERROR - Reddit API authentication failed: invalid_grant error processing request
+2025-05-22 00:46:21,746 - ERROR - Reddit authentication failed. Cannot proceed.
+2025-05-22 00:46:47,285 - INFO - Starting Reddit AI bot for Hand Cricket Showdown promotion...
+2025-05-22 00:46:47,757 - INFO - HTTP Request: GET https://www.google.com "HTTP/1.1 200 OK"
+2025-05-22 00:46:47,761 - INFO - Internet connection is working
+2025-05-22 00:46:50,052 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-22 00:46:50,052 - INFO - Ollama is running. Available models: ['deepseek-r1:1.5b']
+2025-05-22 00:46:53,111 - INFO - Reddit API authentication successful. Logged in as: Independent-Race-916
+2025-05-22 00:46:53,112 - INFO - Searching for relevant posts about crowdfunding/board games...
+2025-05-22 00:46:53,112 - INFO - Searching in r/tabletopgames
+2025-05-22 00:46:54,869 - ERROR - Error retrieving posts from r/tabletopgames: 'Submission' object has no attribute 'reddit'
+2025-05-22 00:46:54,869 - INFO - No relevant posts found, trying r/boardgamedesign
+2025-05-22 00:46:56,056 - ERROR - Error retrieving posts from r/boardgamedesign: 'Submission' object has no attribute 'reddit'
+2025-05-22 00:46:56,056 - INFO - No relevant posts found to process.
+2025-05-22 00:54:14,370 - INFO - Starting Reddit AI bot for Hand Cricket Showdown promotion...
+2025-05-22 00:54:15,047 - INFO - HTTP Request: GET https://www.google.com "HTTP/1.1 200 OK"
+2025-05-22 00:54:15,050 - INFO - Internet connection is working
+2025-05-22 00:54:17,371 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-22 00:54:17,372 - INFO - Ollama is running. Available models: ['deepseek-r1:1.5b']
+2025-05-22 00:54:20,621 - INFO - Reddit API authentication successful. Logged in as: Independent-Race-916
+2025-05-22 00:54:22,227 - INFO - Found relevant search result in r/kickstarter: [Feedback Request] Struggling to reach beyond 25% - how can I improve my Kickstarter page?
+2025-05-22 00:54:22,864 - INFO - Found relevant search result in r/kickstarter: How do tabletop companies afford the initial costs for unique physical miniatures for Kickstarter?
+2025-05-22 00:54:23,825 - INFO - Found relevant search result in r/kickstarter: Deep Dive of Kickstarter & LaunchBoom's Learning Lab – Pre-Launch Breakdown (Saving You Hours)
+2025-05-22 00:54:24,344 - INFO - Found relevant search result in r/kickstarter: Preparing for Kickstarter: What Should We Have in Place?
+2025-05-22 00:54:24,889 - INFO - Found relevant search result in r/kickstarter: Card/ board game creators... what manufacturer do you recommend??
+2025-05-22 00:54:26,006 - INFO - Found relevant search result in r/crowdfunding: Check out my new board game!
+2025-05-22 00:54:26,540 - INFO - Found relevant search result in r/crowdfunding: I created my card SOLO, and now close to funding! 
+2025-05-22 00:54:27,182 - INFO - Found relevant search result in r/crowdfunding: Gwent, The Art of War & Indie-Dev in 2024
+2025-05-22 00:54:27,818 - INFO - Found relevant search result in r/crowdfunding: Waddle Waddle - 7 Days left
+2025-05-22 00:54:28,304 - INFO - Found relevant search result in r/crowdfunding: What companies can help make board games and card games?
+2025-05-22 00:54:28,715 - ERROR - Error searching r/boardgameprojects: Redirect to /subreddits/search
+2025-05-22 00:54:30,697 - INFO - Found relevant search result in r/tabletopgamedesign: Everything you need to know about cards / Part 2
+2025-05-22 00:54:34,600 - INFO - Found relevant search result in r/IndieDev: Gonna jump on this bandwagon a little differently. I suck at 2D illustration but can make do with 3D. So I mocked up what I want in 3D and hired an artist to remake it!
+2025-05-22 00:54:35,139 - INFO - Found relevant search result in r/IndieDev: I just released a demo for my first Steam game – would love feedback on the tutorial!
+2025-05-22 00:54:35,643 - INFO - Found relevant search result in r/IndieDev: I made a brainrot card game mode to my alien themed online board/card game named Bogos Binted?. Because why not...
+2025-05-22 00:54:36,300 - INFO - Found relevant search result in r/IndieDev: Just dropped the Steam page for my alien themed online board/card game, would be awesome if you check it out. Would appreciate any feedback!
+2025-05-22 00:54:36,967 - INFO - Found relevant search result in r/IndieDev: Widget Feedback for my Turn-Based Strategy Board Game
+2025-05-22 00:54:38,220 - INFO - Found relevant search result in r/boardgames: Working on creating a party game for a school project.
+2025-05-22 00:54:39,814 - INFO - Found relevant search result in r/boardgames: LFG Board Game with Deck Building/CCG + Tower Defense Elements
+2025-05-22 00:54:40,462 - INFO - Found relevant search result in r/boardgames: Ideas for post-game exchange items that are not food
+2025-05-22 00:54:41,683 - INFO - Found relevant search result in r/cardgames: Trying to remember 80s Space Themed card game
+2025-05-22 00:54:42,183 - INFO - Found relevant search result in r/cardgames: How interesting would a new Viking Hearthstone-like game be?
+2025-05-22 00:54:42,715 - INFO - Found relevant search result in r/cardgames: After two years of work, we turned a standard deck of playing cards into a uniquely illustrated co-op poker style game with modern board game depth
+2025-05-22 00:54:43,522 - INFO - Found relevant search result in r/cardgames: Is there a name for thematic games that uses the standard deck cards?
+2025-05-22 00:54:44,009 - INFO - Found relevant search result in r/cardgames: What do you think of me and my bros card game, what do we need to fix?
+2025-05-22 00:54:45,161 - INFO - Found relevant search result in r/boardgamedesign: Things I should know before contracting an artist?
+2025-05-22 00:54:45,741 - INFO - Found relevant search result in r/boardgamedesign: Thinking of making my own Card Game/Board Game.
+2025-05-22 00:54:46,949 - INFO - Found relevant search result in r/boardgamedesign: I would like to hear your opinion on my battle system
+2025-05-22 00:54:47,654 - INFO - Found relevant search result in r/boardgamedesign: Help me pick a card design please
+2025-05-22 00:54:48,852 - INFO - Found relevant search result in r/indiegames: Announced the first war-horror card game ever! Make sure to wishlist in on Steam!
+2025-05-22 00:54:49,381 - INFO - Found relevant search result in r/indiegames: After 3 years of hard work my second game has made it onto popular upcoming! Good luck to all the amazing games launching this week with us
+2025-05-22 00:54:49,892 - INFO - Found relevant search result in r/indiegames: Broken Dice Crawler, a tactical board game a with animated cards and rpg dice
+2025-05-22 00:54:50,470 - INFO - Found relevant search result in r/indiegames: Celebrate with us our new major update for BAND OF BRIGANDS - a social semi-co-op dungeon crawler with a unique twist: only one player can win! Card-based combat system, turn-based gameplay, and the feel of a digital board game, it’s designed to create dynamic alliances and betrayals.
+2025-05-22 00:54:50,978 - INFO - Found relevant search result in r/indiegames: My TCG (not really an indie game but I guess it fits kinda)
+2025-05-22 00:54:52,621 - INFO - Found relevant search result in r/playtesters: Playtesters needed for a board game about politics of Roman Republic
+2025-05-22 00:54:53,263 - INFO - Found relevant search result in r/playtesters: Looking for Playtesters on Tabletop Simulator for a TCG (Similar to MTG, Yugioh, Lorecana or One Piece TCG)
+2025-05-22 00:54:53,711 - INFO - Found relevant search result in r/playtesters: Seeking Playtesters for: Unacknowledged - a social deduction game about a UFO coverup (print & play)
+2025-05-22 00:54:54,219 - INFO - Found relevant search result in r/playtesters: Seking: Playtesters for improv board game.
+2025-05-22 00:54:54,641 - ERROR - Error searching r/game_promo: Redirect to /subreddits/search
+2025-05-22 00:54:54,642 - INFO - Found 39 relevant posts.
+2025-05-22 00:54:54,642 - INFO - 
+[1/39] Processing post from r/kickstarter: [Feedback Request] Struggling to reach beyond 25% - how can I improve my Kickstarter page?
+2025-05-22 00:54:56,952 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-22 00:54:56,953 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-22 00:55:08,987 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-22 00:55:08,988 - INFO - Generated comment: Wow, you’ve done a lot more than I expected! What's the next step you can take to improve your campaign? Can we see some more of that cool visuals or unique content ideas?
+2025-05-22 00:55:08,988 - INFO - Generated promo: Let’s bring the excitement of hand cricket onto your digital stage with a strategic 2-player card game called Hand Cricket Showdown!
+2025-05-22 00:55:11,821 - INFO - Posted comment on '[Feedback Request] Struggling to reach beyond 25% - how can I improve my Kickstarter page?'
+2025-05-22 00:55:11,822 - INFO - Saved interaction for post 1kivq37
+2025-05-22 00:57:59,824 - INFO - Waiting 45 seconds before processing next post...
+2025-05-22 00:58:44,825 - INFO - 
+[2/39] Processing post from r/kickstarter: How do tabletop companies afford the initial costs for unique physical miniatures for Kickstarter?
+2025-05-22 00:58:47,137 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-22 00:58:47,138 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-22 00:58:56,756 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-22 00:58:59,414 - INFO - Posted comment on 'How do tabletop companies afford the initial costs for unique physical miniatures for Kickstarter?'
+2025-05-22 00:58:59,415 - INFO - Saved interaction for post 1j6lcu7
+2025-05-22 01:01:47,415 - INFO - Waiting 84 seconds before processing next post...
+2025-05-22 01:03:11,416 - INFO - 
+[3/39] Processing post from r/kickstarter: Deep Dive of Kickstarter & LaunchBoom's Learning Lab – Pre-Launch Breakdown (Saving You Hours)
+2025-05-22 01:03:13,690 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-22 01:03:13,691 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-22 01:03:21,968 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-22 01:03:25,567 - INFO - Posted comment on 'Deep Dive of Kickstarter & LaunchBoom's Learning Lab – Pre-Launch Breakdown (Saving You Hours)'
+2025-05-22 01:03:25,568 - INFO - Saved interaction for post 1iz0nte
+2025-05-22 01:05:13,569 - INFO - Waiting 69 seconds before processing next post...
+2025-05-22 01:06:22,572 - INFO - 
+[4/39] Processing post from r/kickstarter: Preparing for Kickstarter: What Should We Have in Place?
+2025-05-22 01:06:24,864 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-22 01:06:24,865 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-22 01:06:33,845 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-22 01:06:33,846 - INFO - Generated comment: Thanks for being involved! Our playtesting has been thorough, and we're excited to see how this game progresses.
+2025-05-22 01:06:33,846 - INFO - Generated promo: Join Hand Cricket Showdown—a playful 2-player strategy game that blends cricket-like movement with card-based decisions. Ready to immerse in an innovative way?
+2025-05-22 01:06:36,532 - INFO - Posted comment on 'Preparing for Kickstarter: What Should We Have in Place?'
+2025-05-22 01:06:36,533 - INFO - Saved interaction for post 1iiw2lu
+2025-05-26 08:04:20,160 - INFO - Starting Reddit AI bot for Hand Cricket Showdown promotion...
+2025-05-26 08:04:21,180 - INFO - HTTP Request: GET https://www.google.com "HTTP/1.1 200 OK"
+2025-05-26 08:04:21,229 - INFO - Internet connection is working
+2025-05-26 08:04:23,489 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:04:23,490 - INFO - Ollama is running. Available models: ['deepseek-r1:1.5b']
+2025-05-26 08:04:26,517 - INFO - Reddit API authentication successful. Logged in as: Independent-Race-916
+2025-05-26 08:04:35,054 - ERROR - Error searching r/boardgameprojects: Redirect to /subreddits/search
+2025-05-26 08:04:36,137 - INFO - Found relevant search result in r/tabletopgamedesign: Dextrous and TTS data question
+2025-05-26 08:04:36,695 - INFO - Found relevant search result in r/tabletopgamedesign: Ran a Prototype of my board game last night with friends and it went great!
+2025-05-26 08:04:39,936 - INFO - Found relevant search result in r/IndieDev: My game page finally launched on Steam after a LOOOONNNGGG NDA. Whew.
+2025-05-26 08:04:40,547 - INFO - Found relevant search result in r/IndieDev: We added a story to our roguelike Ludo game — did it work?
+2025-05-26 08:04:43,838 - INFO - Found relevant search result in r/boardgames: Weekly Crowdfunding Roundup: May 25, 2025 | 24 ending soon ("Pandora's Legacy", "Aeon's End: Beyond the Breach") & 40 new ("PRINCIPES", "PAYBACK")
+2025-05-26 08:04:44,377 - INFO - Found relevant search result in r/boardgames: PnP Projects - BUS
+2025-05-26 08:04:44,887 - INFO - Found relevant search result in r/boardgames: Crowdfunded Games Launching This Week [May 25th, 2025]
+2025-05-26 08:04:45,455 - INFO - Found relevant search result in r/boardgames: On Obscure Board Games
+2025-05-26 08:04:47,097 - INFO - Found relevant search result in r/cardgames: Going second problem in card games.
+2025-05-26 08:04:54,523 - INFO - Found relevant search result in r/indiegames: We added a story to our roguelike Ludo game — did it work?
+2025-05-26 08:04:56,177 - INFO - Found relevant search result in r/indiegames: Broken Dice Crawler, a tactical board game a with animated cards and rpg dice
+2025-05-26 08:04:56,673 - INFO - Found relevant search result in r/indiegames: Celebrate with us our new major update for BAND OF BRIGANDS - a social semi-co-op dungeon crawler with a unique twist: only one player can win! Card-based combat system, turn-based gameplay, and the feel of a digital board game, it’s designed to create dynamic alliances and betrayals.
+2025-05-26 08:04:58,213 - INFO - Found relevant search result in r/playtesters: Playtesters needed for a board game about politics of Roman Republic
+2025-05-26 08:04:58,833 - INFO - Found relevant search result in r/playtesters: Looking for Playtesters on Tabletop Simulator for a TCG (Similar to MTG, Yugioh, Lorecana or One Piece TCG)
+2025-05-26 08:04:59,475 - INFO - Found relevant search result in r/playtesters: Seeking Playtesters for: Unacknowledged - a social deduction game about a UFO coverup (print & play)
+2025-05-26 08:05:00,004 - INFO - Found relevant search result in r/playtesters: Seking: Playtesters for improv board game.
+2025-05-26 08:05:00,605 - INFO - Found relevant search result in r/playtesters: Break my game & find overpowered combos in Umami Friends on Tabletop Sim?
+2025-05-26 08:05:01,014 - ERROR - Error searching r/game_promo: Redirect to /subreddits/search
+2025-05-26 08:05:01,015 - INFO - Found 17 relevant posts.
+2025-05-26 08:05:01,016 - INFO - 
+[1/17] Processing post from r/tabletopgamedesign: Dextrous and TTS data question
+2025-05-26 08:05:03,278 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:05:03,279 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:05:13,585 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:05:17,088 - INFO - Posted comment on 'Dextrous and TTS data question'
+2025-05-26 08:05:17,088 - INFO - Saved interaction for post 1kupptw
+2025-05-26 08:08:06,089 - INFO - Waiting 50 seconds before processing next post...
+2025-05-26 08:08:56,090 - INFO - 
+[2/17] Processing post from r/tabletopgamedesign: Ran a Prototype of my board game last night with friends and it went great!
+2025-05-26 08:08:58,534 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:08:58,535 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:09:05,971 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:09:05,972 - INFO - Generated comment: Wow, that's incredible! I couldn't have done it all on my own. Can't wait to see how your hand cricket showdown unfolds.
+2025-05-26 08:09:05,972 - INFO - Generated promo: Join the epic Hand Cricket Showdown... where strategy and creativity meet. Early access now.
+2025-05-26 08:09:08,751 - INFO - Posted comment on 'Ran a Prototype of my board game last night with friends and it went great!'
+2025-05-26 08:09:08,752 - INFO - Saved interaction for post 1ktyhdf
+2025-05-26 08:11:35,753 - INFO - Waiting 59 seconds before processing next post...
+2025-05-26 08:12:34,754 - INFO - 
+[3/17] Processing post from r/IndieDev: My game page finally launched on Steam after a LOOOONNNGGG NDA. Whew.
+2025-05-26 08:12:37,241 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:12:37,242 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:12:43,515 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:12:46,320 - INFO - Posted comment on 'My game page finally launched on Steam after a LOOOONNNGGG NDA. Whew.'
+2025-05-26 08:12:46,320 - INFO - Saved interaction for post 1kuo5yd
+2025-05-26 08:15:19,321 - INFO - Waiting 76 seconds before processing next post...
+2025-05-26 08:16:35,322 - INFO - 
+[4/17] Processing post from r/IndieDev: We added a story to our roguelike Ludo game — did it work?
+2025-05-26 08:16:37,727 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:16:37,728 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:16:45,135 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:16:47,946 - INFO - Posted comment on 'We added a story to our roguelike Ludo game — did it work?'
+2025-05-26 08:16:47,948 - INFO - Saved interaction for post 1ktulzc
+2025-05-26 08:19:00,948 - INFO - Waiting 48 seconds before processing next post...
+2025-05-26 08:19:48,949 - INFO - 
+[5/17] Processing post from r/boardgames: Weekly Crowdfunding Roundup: May 25, 2025 | 24 ending soon ("Pandora's Legacy", "Aeon's End: Beyond the Breach") & 40 new ("PRINCIPES", "PAYBACK")
+2025-05-26 08:19:51,237 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:19:51,237 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:19:59,062 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:19:59,077 - INFO - Generated promo: "Hand Cricket Showdown" is coming soon as a 2-player strategic card-based version of cricket!
+2025-05-26 08:20:02,213 - INFO - Posted comment on 'Weekly Crowdfunding Roundup: May 25, 2025 | 24 ending soon ("Pandora's Legacy", "Aeon's End: Beyond the Breach") & 40 new ("PRINCIPES", "PAYBACK")'
+2025-05-26 08:20:02,213 - INFO - Saved interaction for post 1kvdrs4
+2025-05-26 08:22:46,214 - INFO - Waiting 73 seconds before processing next post...
+2025-05-26 08:23:59,215 - INFO - 
+[6/17] Processing post from r/boardgames: PnP Projects - BUS
+2025-05-26 08:24:01,491 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:24:01,492 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:24:10,938 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:24:10,939 - INFO - Generated comment: I've been really impressed with your modular design project! The Bus,Container, and Santiago games are super cool. If you need any help or have questions about the printing process, feel free to ask. Next up is Santiago's project, and while it took me 30 hours for the Bus board alone, it all worked out in the end.
+2025-05-26 08:24:10,940 - INFO - Generated promo: Hand Cricket Showdown: A 2-Player Strategy Game Inspired by Cricketer's Heartbeat | www.handscritchday.com
+2025-05-26 08:24:13,859 - INFO - Posted comment on 'PnP Projects - BUS'
+2025-05-26 08:24:13,860 - INFO - Saved interaction for post 1kvai30
+2025-05-26 08:31:06,483 - INFO - Waiting 104 seconds before processing next post...
+2025-05-26 08:32:50,484 - INFO - 
+[7/17] Processing post from r/boardgames: Crowdfunded Games Launching This Week [May 25th, 2025]
+2025-05-26 08:32:53,724 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:32:53,725 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:33:07,093 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:33:10,824 - INFO - Posted comment on 'Crowdfunded Games Launching This Week [May 25th, 2025]'
+2025-05-26 08:33:10,825 - INFO - Saved interaction for post 1kv9q1f
+2025-05-26 08:35:12,826 - INFO - Waiting 106 seconds before processing next post...
+2025-05-26 08:36:58,835 - INFO - 
+[8/17] Processing post from r/boardgames: On Obscure Board Games
+2025-05-26 08:37:01,722 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:37:01,724 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:37:12,262 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:37:15,128 - INFO - Posted comment on 'On Obscure Board Games'
+2025-05-26 08:37:15,129 - INFO - Saved interaction for post 1kuyk2a
+2025-05-26 08:38:49,130 - INFO - Waiting 66 seconds before processing next post...
+2025-05-26 08:39:55,131 - INFO - 
+[9/17] Processing post from r/cardgames: Going second problem in card games.
+2025-05-26 08:39:57,922 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:39:57,924 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:40:29,400 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:40:32,267 - INFO - Posted comment on 'Going second problem in card games.'
+2025-05-26 08:40:32,268 - INFO - Saved interaction for post 1ktwxol
+2025-05-26 08:42:50,269 - INFO - Waiting 79 seconds before processing next post...
+2025-05-26 08:44:09,270 - INFO - 
+[10/17] Processing post from r/indiegames: We added a story to our roguelike Ludo game — did it work?
+2025-05-26 08:44:12,093 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:44:12,094 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:44:27,321 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:44:30,020 - INFO - Posted comment on 'We added a story to our roguelike Ludo game — did it work?'
+2025-05-26 08:44:30,021 - INFO - Saved interaction for post 1ktunlu
+2025-05-26 08:45:34,022 - INFO - Waiting 37 seconds before processing next post...
+2025-05-26 08:46:11,024 - INFO - 
+[11/17] Processing post from r/indiegames: Broken Dice Crawler, a tactical board game a with animated cards and rpg dice
+2025-05-26 08:46:13,819 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:46:13,820 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:46:23,900 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:46:26,655 - INFO - Posted comment on 'Broken Dice Crawler, a tactical board game a with animated cards and rpg dice'
+2025-05-26 08:46:26,657 - INFO - Saved interaction for post 1j1syvs
+2025-05-26 08:49:12,658 - INFO - Waiting 102 seconds before processing next post...
+2025-05-26 08:50:54,659 - INFO - 
+[12/17] Processing post from r/indiegames: Celebrate with us our new major update for BAND OF BRIGANDS - a social semi-co-op dungeon crawler with a unique twist: only one player can win! Card-based combat system, turn-based gameplay, and the feel of a digital board game, it’s designed to create dynamic alliances and betrayals.
+2025-05-26 08:50:57,518 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:50:57,519 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:51:10,420 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:51:13,369 - INFO - Posted comment on 'Celebrate with us our new major update for BAND OF BRIGANDS - a social semi-co-op dungeon crawler with a unique twist: only one player can win! Card-based combat system, turn-based gameplay, and the feel of a digital board game, it’s designed to create dynamic alliances and betrayals.'
+2025-05-26 08:51:13,370 - INFO - Saved interaction for post 1h5w2vx
+2025-05-26 08:53:49,371 - INFO - Waiting 87 seconds before processing next post...
+2025-05-26 08:55:16,372 - INFO - 
+[13/17] Processing post from r/playtesters: Playtesters needed for a board game about politics of Roman Republic
+2025-05-26 08:55:18,937 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:55:18,939 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:55:28,885 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:55:31,624 - INFO - Posted comment on 'Playtesters needed for a board game about politics of Roman Republic'
+2025-05-26 08:55:31,624 - INFO - Saved interaction for post 1kaugbz
+2025-05-26 08:57:46,625 - INFO - Waiting 44 seconds before processing next post...
+2025-05-26 08:58:30,626 - INFO - 
+[14/17] Processing post from r/playtesters: Looking for Playtesters on Tabletop Simulator for a TCG (Similar to MTG, Yugioh, Lorecana or One Piece TCG)
+2025-05-26 08:58:33,284 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 08:58:33,286 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 08:58:48,736 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 08:58:51,408 - INFO - Posted comment on 'Looking for Playtesters on Tabletop Simulator for a TCG (Similar to MTG, Yugioh, Lorecana or One Piece TCG)'
+2025-05-26 08:58:51,409 - INFO - Saved interaction for post 1jfzkzi
+2025-05-26 09:01:19,412 - INFO - Waiting 97 seconds before processing next post...
+2025-05-26 09:02:56,413 - INFO - 
+[15/17] Processing post from r/playtesters: Seeking Playtesters for: Unacknowledged - a social deduction game about a UFO coverup (print & play)
+2025-05-26 09:02:59,008 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 09:02:59,009 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 09:03:10,470 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 09:03:13,164 - INFO - Posted comment on 'Seeking Playtesters for: Unacknowledged - a social deduction game about a UFO coverup (print & play)'
+2025-05-26 09:03:13,165 - INFO - Saved interaction for post 1htpy4j
+2025-05-26 09:04:29,166 - INFO - Waiting 115 seconds before processing next post...
+2025-05-26 09:06:24,169 - INFO - 
+[16/17] Processing post from r/playtesters: Seking: Playtesters for improv board game.
+2025-05-26 09:06:26,771 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 09:06:26,771 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 09:06:43,174 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 09:06:45,923 - INFO - Posted comment on 'Seking: Playtesters for improv board game.'
+2025-05-26 09:06:45,924 - INFO - Saved interaction for post 1elgne7
+2025-05-26 09:08:08,925 - INFO - Waiting 96 seconds before processing next post...
+2025-05-26 09:09:44,926 - INFO - 
+[17/17] Processing post from r/playtesters: Break my game & find overpowered combos in Umami Friends on Tabletop Sim?
+2025-05-26 09:09:47,504 - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-05-26 09:09:47,506 - INFO - Using Ollama model: deepseek-r1:1.5b
+2025-05-26 09:09:58,257 - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-05-26 09:09:58,258 - INFO - Generated comment: "Ummami Friends looks intriguing! We’re drawn to how it combines drafting with resource management. Check out the Tabletop Sim launch party for some great strategies!"
+2025-05-26 09:09:58,258 - INFO - Generated promo: "Hand Cricket Showdown? A unique 2-player card game inspired by cricket's strategy, set to launch to Kickstarter!"
+2025-05-26 09:10:01,200 - INFO - Posted comment on 'Break my game & find overpowered combos in Umami Friends on Tabletop Sim?'
+2025-05-26 09:10:01,201 - INFO - Saved interaction for post 1e38any
+2025-05-26 09:12:57,204 - INFO - 
+Reddit AI bot completed successfully!

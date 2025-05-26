@@ -1,6 +1,6 @@
 # 🐦 ViralWhisper — Let Your Project Speak!
 
-**AI-powered social engagement tool for solo builders and indie hackers**
+**AI-powered social engagement tool for solo builders and indie hackers.**
 
 ---
 

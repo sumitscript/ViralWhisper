@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About the Project
+##  🚀 About the Project
 
 **ViralWhisper** is an AI-powered assistant built for indie devs, solo founders, and product builders who are deeply involved in development but don’t have time to engage on platforms like **Twitter/X** and **Reddit**.
 

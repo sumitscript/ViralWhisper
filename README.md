@@ -85,3 +85,4 @@ reddit-bot/
 ├── bot-1.py                  # Extra bot logic/testing
 ├── reddit_bot.log            # Logging
 └── README.md
+-----
